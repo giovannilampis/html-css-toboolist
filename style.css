@@ -6,18 +6,98 @@
 }
 
 header {
-    height: 5rem;
+    padding: 10px 20px;
 }
 
 #logo-image {
     vertical-align: middle;
+    height: 3rem;
+    width: auto;
+
 }
 
 main {
     background-color: rgb(246, 248, 249);
+    padding: 50px 0;
 }
 
 header > span {
     font-size: 2rem;
     font-weight: bold;
+    vertical-align: middle;
+    line-height: 3rem;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 0.3rem;
+}
+
+.top {
+    padding: 20px 40px;
+    border-bottom: 1px solid black;
+}
+
+h3 {
+    margin: 1.5rem 1.5rem;
+}
+
+.btn {
+
+}
+
+.btn-blue {
+    color: white;
+    background-color: rgb(99, 171, 235);
+}
+
+.green-circle {
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+    padding: 0.1rem;
+    background-color: white;
+    border: 1px solid rgb(132, 195, 176);
+    color: rgb(132, 195, 176);
+    margin: 0 0.5rem 0 1.5rem;
+}
+
+green-v {
+    color: rgb(132, 195, 176);
+}
+
+.task {
+    padding: 0.3rem 0.6rem;
+    color: white;
+    border-radius: 0.6rem;
+}
+
+.editorial {
+    background-color: rgb(99, 171, 235);
+}
+
+.q1-goals {
+    background-color: rgb(150, 116, 221);
+}
+
+.recruiting {
+    background-color: rgb(123, 190, 170);
+}
+
+.mobile {
+    background-color: rgb(230, 162, 75);
+}
+
+.website {
+    background-color: rgb(199, 101, 156);
+}
+
+.sales {
+    background-color: rgb(181, 200, 73);
+}
+
+.x {
+    color: rgb(216, 88, 75)
 }
