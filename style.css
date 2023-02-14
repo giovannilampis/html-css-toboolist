@@ -1,5 +1,23 @@
+/* reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+header {
+    height: 5rem;
+}
+
+#logo-image {
+    vertical-align: middle;
+}
+
+main {
+    background-color: rgb(246, 248, 249);
+}
+
+header > span {
+    font-size: 2rem;
+    font-weight: bold;
 }
