@@ -36,7 +36,7 @@ header > span {
 }
 
 .top {
-    padding: 20px 40px;
+    padding: 1.5rem 2.5rem;
     border-bottom: 1px solid rgb(246, 248, 249);
 }
 
@@ -109,4 +109,12 @@ green-v {
 
 .sales {
     background-color: rgb(181, 200, 73);
+}
+
+.space {
+    margin-top: 0.6rem;
+}
+
+.down {
+    padding-bottom: 1.5rem;
 }
